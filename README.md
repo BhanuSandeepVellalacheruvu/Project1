@@ -33,12 +33,11 @@ Clinic
 Contact us
 ![Screenshot (151)](https://github.com/BhanuSandeepVellalacheruvu/Project1/assets/118993028/b97dcbef-cabf-4a9e-9bb2-582e4f0d6397)
 
-Screenshot 2022-11-04 183155
 
+Tech Stack 💻:
 
-Tech Stack 💻
-Azure(Hosting)
-HTML
-CSS
-Bootstrap
-JavaScript
+ Azure(Hosting)
+ HTML
+ CSS
+ Bootstrap
+ JavaScript
