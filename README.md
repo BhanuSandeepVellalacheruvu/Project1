@@ -3,16 +3,6 @@
 This is a web based application developed for health of pets based website in india
 This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-
-Project Link - https://happy-desert-0e6551110.3.azurestaticapps.net/
-
- 
-
-Project demo video link -https://drive.google.com/file/d/12ADivSKVY_yU1bRZRFGE7nUM1QGdazmB/view?usp=sharing
-
- 
-
-
 Azure technologies used for Project are-
 
  
